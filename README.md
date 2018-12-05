@@ -1,5 +1,4 @@
-# DougleyBot is now obsolete, and has been replaced with [WildBeast](https://github.com/SteamingMutt/WildBeast), this repo WON'T recieve any updating of any kind!
-## DougleyBot
+# DougleyBot
 
 [![Version](https://img.shields.io/badge/Version-1.3.8-green.svg?style=flat-square)](https://github.com/SteamingMutt/DougleyBot/releases)
 [![Status](https://img.shields.io/badge/Status-Ready-green.svg?style=flat-square)]()
